@@ -1,0 +1,8 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+	<skos:Concept rdf:about="http://www.my.com/#good">
+		<skos:prefLabel>good</skos:prefLabel>
+		<skos:altLabel>bad</skos:altLabel>
+	</skos:Concept>
+</rdf:RDF>
