@@ -1,5 +1,5 @@
 <select>
-    <option xml:id="" label="" value="" />
+    <option xml:id="id" label="" value="" />
     <option xml:id="sq" label="alb." value="sq" />
     <option xml:id="rup" label="ar." value="rup" />
     <option xml:id="bg" label="bg." value="bg" />
@@ -15,7 +15,7 @@
     <option xml:id="fur" label="friul." value="fur" />
     <option xml:id="de" label="germ." value="de" />
     <option xml:id="grc" label="gr." value="grc" />
-    <option xml:id="ruo" label="istr." value="ruo" />
+    <option xml:id="ruo" label="ir." value="ruo" />
     <option xml:id="it" label="it." value="it" />
     <option xml:id="la" label="lat." value="la" />
     <option xml:id="la-x-popular" label="lat. pop." value="la-x-popular" />
