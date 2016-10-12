@@ -5,7 +5,7 @@
     <option xml:id="bg" label="bg." value="bg" />
     <option xml:id="ca" label="cat." value="ca" />
     <option xml:id="cs" label="ceh." value="cs" />
-    <option xml:id="hr" label="cr." value="hr" />
+    <option xml:id="cs" label="ceh." value="cs" />
     <option xml:id="dlm" label="dalm." value="dlm" />
     <option xml:id="he" label="ebr." value="he" />
     <option xml:id="rm-puter-vallader" label="engad." value="rm-puter-vallader" />
