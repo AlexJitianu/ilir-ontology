@@ -1,7 +1,7 @@
 <select>
     <option xml:id="" label="" value="" />
     <option xml:id="sq" label="alb." value="sq" />
-    <option xml:id="rup" label="arom." value="rup" />
+    <option xml:id="rup" label="ar." value="rup" />
     <option xml:id="bg" label="bg." value="bg" />
     <option xml:id="ca" label="cat." value="ca" />
     <option xml:id="cs" label="ceh." value="cs" />
