@@ -1,8 +1,13 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-	xmlns:skos="http://www.w3.org/2004/02/skos/core#">
-
-	<skos:Concept rdf:about="http://www.my.com/#good">
-		<skos:prefLabel>good</skos:prefLabel>
-		<skos:altLabel>bad</skos:altLabel>
-	</skos:Concept>
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+	<skos:OrderedCollection rdf:about="http://lingv.ro/languages">
+		<rdfs:label>Limbi</rdfs:label>
+		<skos:memberList rdf:parseType="Collection">
+			<skos:Concept rdf:about="http://lingv.ro/languages/sq">
+				<skos:prefLabel>alb.</skos:prefLabel>
+				<skos:altLabel>limba albaneză</skos:altLabel>
+				<skos:altLabel>albanezul</skos:altLabel>
+			</skos:Concept>
+		</skos:memberList>
+	</skos:OrderedCollection>
 </rdf:RDF>
