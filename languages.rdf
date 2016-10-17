@@ -6,7 +6,7 @@
 		<skos:memberList rdf:parseType="Collection">
 			<skos:Concept rdf:about="http://lingv.ro/languages/sq">
 				<skos:prefLabel>alb.</skos:prefLabel>
-				<skos:altLabel>limba albanez; albanezull</skos:altLabel>
+				<skos:altLabel>limba albanez; albanezul</skos:altLabel>
 				<skos:notation>sq</skos:notation>
 			</skos:Concept>
 			<skos:Concept rdf:about="http://lingv.ro/languages/rup">
