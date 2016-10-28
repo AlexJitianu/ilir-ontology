@@ -3,6 +3,7 @@
 	xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 	<skos:ConceptScheme rdf:about="http://lingv.ro/ontology">
 		<skos:hasTopConcept rdf:resource="http://lingv.ro/ontology/languages" />
+		<skos:hasTopConcept rdf:resource="http://lingv.ro/ontology/special-characters" />
 		<skos:hasTopConcept rdf:resource="http://lingv.ro/ontology/bibliography" />
 		<skos:hasTopConcept rdf:resource="http://lingv.ro/ontology/etymology-types" />
 	</skos:ConceptScheme>

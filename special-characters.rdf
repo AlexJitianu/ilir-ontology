@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+	<skos:OrderedCollection rdf:about="http://lingv.ro/ontology/special-characters">
+		<rdfs:label>Caractere speciale</rdfs:label>
+		<skos:memberList rdf:parseType="Collection">
+			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				rdf:about="http://lingv.ro/ontology/special-characters/ro-x-accent-lowcase-vowels">
+				<skos:definition>áéíóúắấî́</skos:definition>
+				<skos:notation>ro-x-accent-lowcase-vowels</skos:notation>
+			</skos:Concept>
+			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				rdf:about="http://lingv.ro/ontology/special-characters/ro-x-accent-upcase-vowels">
+				<skos:definition>ÁÉÍÓÚẮẤÎ́</skos:definition>
+				<skos:notation>ro-x-accent-upcase-vowels</skos:notation>
+			</skos:Concept>
+			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				rdf:about="http://lingv.ro/ontology/special-characters/fr">
+				<skos:definition>ßàáâãȁäāǎçćĉčèéêëēĕȅǵĝğìíîïīĭȉıłñńòóôöōŏőȍœśŝşšţùúûüūŭűȕýÿźżž</skos:definition>
+				<skos:notation>fr</skos:notation>
+			</skos:Concept>
+			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				rdf:about="http://lingv.ro/ontology/special-characters/sr-Latn-x-lowcase">
+				<skos:definition>ßàáâãȁäāǎçćĉčèéêëēĕȅǵĝğìíîïīĭȉıłñńòóôöōŏőȍœśŝşšţùúûüūŭűȕýÿźżž</skos:definition>
+				<skos:notation>sr-Latn-x-lowcase</skos:notation>
+			</skos:Concept>
+			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				rdf:about="http://lingv.ro/ontology/special-characters/pl-x-lowcase">
+				<skos:definition>ßàáâãȁäāǎçćĉčèéêëēĕȅǵĝğìíîïīĭȉıłñńòóôöōŏőȍœśŝşšţùúûüūŭűȕýÿźżž</skos:definition>
+				<skos:notation>pl-x-lowcase</skos:notation>
+			</skos:Concept>
+			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				rdf:about="http://lingv.ro/ontology/special-characters/tr-x-lowcase">
+				<skos:definition>ßàáâãȁäāǎçćĉčèéêëēĕȅǵĝğìíîïīĭȉıłñńòóôöōŏőȍœśŝşšţùúûüūŭűȕýÿźżž</skos:definition>
+				<skos:notation>tr-x-lowcase</skos:notation>
+			</skos:Concept>
+			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				rdf:about="http://lingv.ro/ontology/special-characters/fr-x-upcase">
+				<skos:definition>ÀÁȀÄĀĂÇĆĈČÈÉÊËĒĔȄǴĜĞÌÍÎÏĪĬȈŁÑŃÒÓÔÖŌŎŐȌŒŚŜŞŠŢÙÚÛŪÜŬŰȔŸŹŻŽ</skos:definition>
+				<skos:notation>fr-x-upcase</skos:notation>
+			</skos:Concept>
+			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				rdf:about="http://lingv.ro/ontology/special-characters/sr-Latn-x-upcase">
+				<skos:definition>ÀÁȀÄĀĂÇĆĈČÈÉÊËĒĔȄǴĜĞÌÍÎÏĪĬȈŁÑŃÒÓÔÖŌŎŐȌŒŚŜŞŠŢÙÚÛŪÜŬŰȔŸŹŻŽ</skos:definition>
+				<skos:notation>sr-Latn-x-upcase</skos:notation>
+			</skos:Concept>
+			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				rdf:about="http://lingv.ro/ontology/special-characters/pl-x-upcase">
+				<skos:definition>ÀÁȀÄĀĂÇĆĈČÈÉÊËĒĔȄǴĜĞÌÍÎÏĪĬȈŁÑŃÒÓÔÖŌŎŐȌŒŚŜŞŠŢÙÚÛŪÜŬŰȔŸŹŻŽ</skos:definition>
+				<skos:notation>pl-x-upcase</skos:notation>
+			</skos:Concept>
+			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				rdf:about="http://lingv.ro/ontology/special-characters/tr-x-upcase">
+				<skos:definition>ÀÁȀÄĀĂÇĆĈČÈÉÊËĒĔȄǴĜĞÌÍÎÏĪĬȈŁÑŃÒÓÔÖŌŎŐȌŒŚŜŞŠŢÙÚÛŪÜŬŰȔŸŹŻŽ</skos:definition>
+				<skos:notation>tr-x-upcase</skos:notation>
+			</skos:Concept>
+		</skos:memberList>
+	</skos:OrderedCollection>
+</rdf:RDF>
