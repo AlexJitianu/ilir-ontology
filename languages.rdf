@@ -5,7 +5,7 @@
 		<rdfs:label>Limbi</rdfs:label>
 		<skos:memberList rdf:parseType="Collection">
 			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/sq">
-				<skos:prefLabel>alb.</skos:prefLabel>
+				<skos:prefLabel>alb.a</skos:prefLabel>
 				<skos:altLabel>limba albaneză; albanezul</skos:altLabel>
 				<skos:notation>sq</skos:notation>
 			</skos:Concept>
