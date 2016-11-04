@@ -7,7 +7,7 @@
 			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/sq">
 				<skos:prefLabel>alb.</skos:prefLabel>
 				<skos:altLabel>limba albaneză; albanezul</skos:altLabel>
-				<skos:notation>sq</skos:notation>
+				<skos:notation>alban.</skos:notation>
 			</skos:Concept>
 			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/rup">
 				<skos:prefLabel>ar.</skos:prefLabel>
