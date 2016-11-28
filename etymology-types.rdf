@@ -386,12 +386,6 @@
 				<skos:notation>18b37f4b-ab5c-4626-94ae-f90e038c086f</skos:notation>
 			</skos:Concept>
 			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/d8f30ffa-5f56-4c83-921f-1abcd95ae874">
-				<skos:prefLabel>variantă-directă-prin.derivare.cu.suf.
-				</skos:prefLabel>
-				<skos:notation>d8f30ffa-5f56-4c83-921f-1abcd95ae874</skos:notation>
-			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 				rdf:about="http://lingv.ro/ontology/etymology-types/dac8fbc2-b98a-47f5-a560-a8969e5cdfab">
 				<skos:prefLabel>variantă-directă-sub.influența</skos:prefLabel>
 				<skos:notation>dac8fbc2-b98a-47f5-a560-a8969e5cdfab</skos:notation>
