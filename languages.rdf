@@ -4,10 +4,10 @@
 	<skos:OrderedCollection rdf:about="http://lingv.ro/ontology/languages">
 		<rdfs:label>Limbi</rdfs:label>
 		<skos:memberList rdf:parseType="Collection">
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/sqa">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/sq">
 				<skos:prefLabel>alb.</skos:prefLabel>
 				<skos:altLabel>limba albaneză; albanezul</skos:altLabel>
-				<skos:notation>sqa</skos:notation>
+				<skos:notation>sq</skos:notation>
 			</skos:Concept>
 			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/rup">
 				<skos:prefLabel>ar.</skos:prefLabel>
