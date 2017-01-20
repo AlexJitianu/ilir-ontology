@@ -4,464 +4,379 @@
 	<skos:OrderedCollection rdf:about="http://lingv.ro/ontology/etymology-types">
 		<rdfs:label>Tipuri de etimologii</rdfs:label>
 		<skos:memberList rdf:parseType="Collection">
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/c73d4b72-61bb-42f7-8c3e-b764a14af12e">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/c73d4b72-61bb-42f7-8c3e-b764a14af12e">
 				<skos:prefLabel>cuvântul.titlu-element.moştenit-etimon.atestat</skos:prefLabel>
 				<skos:notation>c73d4b72-61bb-42f7-8c3e-b764a14af12e</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/03ff423d-721c-434b-96bf-1fecb2934c5f">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/03ff423d-721c-434b-96bf-1fecb2934c5f">
 				<skos:prefLabel>cuvântul.titlu-element.moştenit-etimon.neatestat</skos:prefLabel>
 				<skos:notation>03ff423d-721c-434b-96bf-1fecb2934c5f</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/ef8db06f-8bfd-4377-8432-6ed5a1246b65">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/ef8db06f-8bfd-4377-8432-6ed5a1246b65">
 				<skos:prefLabel>cuvântul.titlu-element.de.substrat</skos:prefLabel>
 				<skos:notation>ef8db06f-8bfd-4377-8432-6ed5a1246b65</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/3e093879-d219-4e09-819c-692df82a8546">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/3e093879-d219-4e09-819c-692df82a8546">
 				<skos:prefLabel>cuvântul.titlu-formație.internă-derivat-cu.prefix</skos:prefLabel>
 				<skos:notation>3e093879-d219-4e09-819c-692df82a8546</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/97aacf30-cdba-4a76-9dce-780317e60682">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/97aacf30-cdba-4a76-9dce-780317e60682">
 				<skos:prefLabel>cuvântul.titlu-formație.internă-derivat-cu.sufix</skos:prefLabel>
 				<skos:notation>97aacf30-cdba-4a76-9dce-780317e60682</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/1b542777-e1c1-4c7d-b1c7-3db7945f9bbb">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/1b542777-e1c1-4c7d-b1c7-3db7945f9bbb">
 				<skos:prefLabel>cuvântul.titlu-formație.internă-derivat-cu.prefix.şi.sufix</skos:prefLabel>
 				<skos:notation>1b542777-e1c1-4c7d-b1c7-3db7945f9bbb</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/9bcd6edc-7dc6-4bd5-ab2b-d17f743f7e31">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/9bcd6edc-7dc6-4bd5-ab2b-d17f743f7e31">
 				<skos:prefLabel>cuvântul.titlu-formație.internă-compus-element.de.compunere.+.cuvânt.bază</skos:prefLabel>
 				<skos:notation>9bcd6edc-7dc6-4bd5-ab2b-d17f743f7e31</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/63cc7f1f-0eee-4bc7-9142-083ce9690cf4">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/63cc7f1f-0eee-4bc7-9142-083ce9690cf4">
 				<skos:prefLabel>cuvântul.titlu-formație.internă-compus-cuvânt.bază.+.element.de.compunere</skos:prefLabel>
 				<skos:notation>63cc7f1f-0eee-4bc7-9142-083ce9690cf4</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/83d25427-7f94-4ab4-baab-be1f55365d9c">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/83d25427-7f94-4ab4-baab-be1f55365d9c">
 				<skos:prefLabel>cuvântul.titlu-formație.internă-compus-din.mai.multe.cuvinte.de.bază</skos:prefLabel>
 				<skos:notation>83d25427-7f94-4ab4-baab-be1f55365d9c</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/fadda7a7-5195-4908-b73f-6033f23700f4">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/fadda7a7-5195-4908-b73f-6033f23700f4">
 				<skos:prefLabel>cuvântul.titlu-formație.internă-compus-formație.savantă.din.latină</skos:prefLabel>
 				<skos:notation>fadda7a7-5195-4908-b73f-6033f23700f4</skos:notation>
 			</skos:Concept>
-
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/7821988f-a21b-4d57-a999-cf38b6374856">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/7821988f-a21b-4d57-a999-cf38b6374856">
 				<skos:prefLabel>cuvântul.titlu-formație.internă-compus-format.din</skos:prefLabel>
 				<skos:notation>7821988f-a21b-4d57-a999-cf38b6374856</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/a194cd06-55ae-4c54-b402-1e67b7862189">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/a194cd06-55ae-4c54-b402-1e67b7862189">
 				<skos:prefLabel>cuvântul.titlu-formație.internă-derivat.regresiv</skos:prefLabel>
 				<skos:notation>a194cd06-55ae-4c54-b402-1e67b7862189</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/ddd52670-2af6-4e6c-a3ec-a3b192ad1837">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/ddd52670-2af6-4e6c-a3ec-a3b192ad1837">
 				<skos:prefLabel>cuvântul.titlu-formație.internă-derivat.postverbal
 				</skos:prefLabel>
 				<skos:notation>ddd52670-2af6-4e6c-a3ec-a3b192ad1837</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/af3247ab-9743-4f6d-8a13-74dc395a2043">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/af3247ab-9743-4f6d-8a13-74dc395a2043">
 				<skos:prefLabel>cuvântul.titlu-formație.internă-trimitere-V.</skos:prefLabel>
 				<skos:notation>af3247ab-9743-4f6d-8a13-74dc395a2043</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/d624ab47-b26b-4eda-ae14-6a5c961ea7b6">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/d624ab47-b26b-4eda-ae14-6a5c961ea7b6">
 				<skos:prefLabel>cuvântul.titlu-formație.internă-trimitere-Cf.</skos:prefLabel>
 				<skos:notation>d624ab47-b26b-4eda-ae14-6a5c961ea7b6</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/0a8e5699-c6ef-4d2d-b45b-c6e798ded9fc">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/0a8e5699-c6ef-4d2d-b45b-c6e798ded9fc">
 				<skos:prefLabel>cuvântul.titlu-formație.internă-trimitere-De.la-numele.ştiințific.al.plantei</skos:prefLabel>
 				<skos:notation>0a8e5699-c6ef-4d2d-b45b-c6e798ded9fc</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/de660d9d-91fd-41f4-bb56-bbc3aeb7f4f3">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/de660d9d-91fd-41f4-bb56-bbc3aeb7f4f3">
 				<skos:prefLabel>cuvântul.titlu-formație.internă-trimitere-De.la-n..pr.</skos:prefLabel>
 				<skos:notation>de660d9d-91fd-41f4-bb56-bbc3aeb7f4f3</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/0c3fefbb-556a-4cfc-9af9-e176052c07bb">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/0c3fefbb-556a-4cfc-9af9-e176052c07bb">
 				<skos:prefLabel>cuvântul.titlu-formație.internă-trimitere-De.la-numele.de.localitate</skos:prefLabel>
 				<skos:notation>0c3fefbb-556a-4cfc-9af9-e176052c07bb</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/754a4970-7360-4281-a2e1-6ea471df3963">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/754a4970-7360-4281-a2e1-6ea471df3963">
 				<skos:prefLabel>cuvântul.titlu-formație.internă-trimitere-De.la-numele.sărbătorii.religioase</skos:prefLabel>
 				<skos:notation>754a4970-7360-4281-a2e1-6ea471df3963</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/83807ff8-b114-4ef1-8789-68785f06b7bc">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/83807ff8-b114-4ef1-8789-68785f06b7bc">
 				<skos:prefLabel>cuvântul.titlu-formație.internă-trimitere-De.la-numele.ştiințific.al.planetei</skos:prefLabel>
 				<skos:notation>83807ff8-b114-4ef1-8789-68785f06b7bc</skos:notation>
 			</skos:Concept>
-
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/0be3cffd-cecb-4b65-8c0e-fafb891febc0">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/0be3cffd-cecb-4b65-8c0e-fafb891febc0">
 				<skos:prefLabel>cuvântul.titlu-formație.internă-trimitere-Din-etimon.atestat</skos:prefLabel>
 				<skos:notation>0be3cffd-cecb-4b65-8c0e-fafb891febc0</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/ab7f2ffa-2b04-428f-b9bf-379872d77692">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/ab7f2ffa-2b04-428f-b9bf-379872d77692">
 				<skos:prefLabel>cuvântul.titlu-formație.internă-trimitere-Din-etimon.*</skos:prefLabel>
 				<skos:notation>ab7f2ffa-2b04-428f-b9bf-379872d77692</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/bae15364-a5af-462c-b03c-d8a9c6e69bb2">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/bae15364-a5af-462c-b03c-d8a9c6e69bb2">
 				<skos:prefLabel>cuvântul.titlu-formație.internă-prescurtare</skos:prefLabel>
 				<skos:notation>bae15364-a5af-462c-b03c-d8a9c6e69bb2</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/4aeeb569-ff80-48ad-86b1-5cc2dcce6eef">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/4aeeb569-ff80-48ad-86b1-5cc2dcce6eef">
 				<skos:prefLabel>cuvântul.titlu-formație.internă-contaminare-cu.un.element-în.care.primul.element.este
 				</skos:prefLabel>
 				<skos:notation>4aeeb569-ff80-48ad-86b1-5cc2dcce6eef</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/22f8c127-eace-48dc-afc3-5ed110d06fed">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/22f8c127-eace-48dc-afc3-5ed110d06fed">
 				<skos:prefLabel>cuvântul.titlu-formație.internă-contaminare-cu.un.element-în.care.unul.dintre.elemente.este
 				</skos:prefLabel>
 				<skos:notation>22f8c127-eace-48dc-afc3-5ed110d06fed</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/1176827f-4807-4122-a098-e4293a9bea64">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/1176827f-4807-4122-a098-e4293a9bea64">
 				<skos:prefLabel>cuvântul.titlu-formație.internă-contaminare-cu.două.sau.mai.multe.elemente</skos:prefLabel>
 				<skos:notation>1176827f-4807-4122-a098-e4293a9bea64</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/076f3a7e-0b38-4c25-a4d1-7463cd33a9d6">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/076f3a7e-0b38-4c25-a4d1-7463cd33a9d6">
 				<skos:prefLabel>cuvântul.titlu-formație.internă-calc
 				</skos:prefLabel>
 				<skos:notation>076f3a7e-0b38-4c25-a4d1-7463cd33a9d6</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/fb0f1fc3-a3a8-413f-aa3e-4fe274fc292c">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/fb0f1fc3-a3a8-413f-aa3e-4fe274fc292c">
 				<skos:prefLabel>cuvântul.titlu-formație.internă-onomatopee
 				</skos:prefLabel>
 				<skos:notation>fb0f1fc3-a3a8-413f-aa3e-4fe274fc292c</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/d49de4ad-6997-41c5-8c62-ff63a946ab0e">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/d49de4ad-6997-41c5-8c62-ff63a946ab0e">
 				<skos:prefLabel>cuvântul.titlu-formație.internă-contragere
 				</skos:prefLabel>
 				<skos:notation>d49de4ad-6997-41c5-8c62-ff63a946ab0e</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/825404bd-b1c1-4907-bbdd-0ed0250f67aa">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/825404bd-b1c1-4907-bbdd-0ed0250f67aa">
 				<skos:prefLabel>
 					cuvântul.titlu-formație.internă-izolare-prin.analiză.din.împrumuturi.ca
 				</skos:prefLabel>
 				<skos:notation>825404bd-b1c1-4907-bbdd-0ed0250f67aa</skos:notation>
 			</skos:Concept>
-
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/7562d59d-6fd8-4b1c-b405-cbc4a70ebb7e">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/7562d59d-6fd8-4b1c-b405-cbc4a70ebb7e">
 				<skos:prefLabel>
 					cuvântul.titlu-formație.internă-izolare-prin.analiză.din.cuvinte.compuse.împrumutate
 				</skos:prefLabel>
 				<skos:notation>7562d59d-6fd8-4b1c-b405-cbc4a70ebb7e</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/b90b636b-9c62-4c8f-8bfa-1006589542d5">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/b90b636b-9c62-4c8f-8bfa-1006589542d5">
 				<skos:prefLabel>
 					cuvântul.titlu-formație.internă-izolare-din.nume.de.localităţi
 				</skos:prefLabel>
 				<skos:notation>b90b636b-9c62-4c8f-8bfa-1006589542d5</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/67be4542-74fa-4293-942f-d04c8a62aed7">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/67be4542-74fa-4293-942f-d04c8a62aed7">
 				<skos:prefLabel>
 					cuvântul.titlu-formație.internă-singular.refăcut.după.plural
 				</skos:prefLabel>
 				<skos:notation>67be4542-74fa-4293-942f-d04c8a62aed7</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/db7699c3-b7f2-475d-acf6-804dabcf74c0">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/db7699c3-b7f2-475d-acf6-804dabcf74c0">
 				<skos:prefLabel>
 					cuvântul.titlu-formație.internă-formație.onomatopeică
 				</skos:prefLabel>
 				<skos:notation>db7699c3-b7f2-475d-acf6-804dabcf74c0</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/f6326d23-494b-4b95-a0e2-fe08da06bd4e">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/f6326d23-494b-4b95-a0e2-fe08da06bd4e">
 				<skos:prefLabel>
 					cuvântul.titlu-formație.internă-formație.spontană.de.la
 				</skos:prefLabel>
 				<skos:notation>f6326d23-494b-4b95-a0e2-fe08da06bd4e</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/c946475f-d9c6-4e6c-bff4-fee26c0f8c9c">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/c946475f-d9c6-4e6c-bff4-fee26c0f8c9c">
 				<skos:prefLabel>
 					cuvântul.titlu-formație.internă-prin.figură.etimologică.de.la
 				</skos:prefLabel>
 				<skos:notation>c946475f-d9c6-4e6c-bff4-fee26c0f8c9c</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/eb19de89-95bc-4ca0-a685-ae9d07d25f18">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/eb19de89-95bc-4ca0-a685-ae9d07d25f18">
 				<skos:prefLabel>
 					cuvântul.titlu-formație.internă-din.formulă.de.urare
 				</skos:prefLabel>
 				<skos:notation>eb19de89-95bc-4ca0-a685-ae9d07d25f18</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/929b31af-ab69-4767-b1bf-d802fb452b6e">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/929b31af-ab69-4767-b1bf-d802fb452b6e">
 				<skos:prefLabel>cuvântul.titlu-formație.internă-format.după
 				</skos:prefLabel>
 				<skos:notation>929b31af-ab69-4767-b1bf-d802fb452b6e</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/578c4091-0914-451c-ac44-b471990df184">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/578c4091-0914-451c-ac44-b471990df184">
 				<skos:prefLabel>
 					cuvântul.titlu-formație.internă-denumire.comercială
 				</skos:prefLabel>
 				<skos:notation>578c4091-0914-451c-ac44-b471990df184</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/82f76452-4c68-4fba-b7f2-f6821e3f2d94">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/82f76452-4c68-4fba-b7f2-f6821e3f2d94">
 				<skos:prefLabel>
 					cuvântul.titlu-element.extern-împrumut-etimon.sigur
 				</skos:prefLabel>
 				<skos:notation>82f76452-4c68-4fba-b7f2-f6821e3f2d94</skos:notation>
 			</skos:Concept>
-
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/b4c30ced-6b67-488b-9a1a-cf084f3c577c">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/b4c30ced-6b67-488b-9a1a-cf084f3c577c">
 				<skos:prefLabel>cuvântul.titlu-etimon.neatestat.(reconstruit)
 				</skos:prefLabel>
 				<skos:notation>b4c30ced-6b67-488b-9a1a-cf084f3c577c</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/c97857f7-a421-4fdb-930e-a443a59aefa2">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/c97857f7-a421-4fdb-930e-a443a59aefa2">
 				<skos:prefLabel>cuvântul.titlu-element.extern-calc</skos:prefLabel>
 				<skos:notation>c97857f7-a421-4fdb-930e-a443a59aefa2</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/3ee96ef7-b1dc-43e1-b3b8-f18e98b24d59">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/3ee96ef7-b1dc-43e1-b3b8-f18e98b24d59">
 				<skos:prefLabel>cuvântul.titlu-element.extern-trimitere-Cf.
 				</skos:prefLabel>
 				<skos:notation>3ee96ef7-b1dc-43e1-b3b8-f18e98b24d59</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/e37ad037-6ffa-42d7-ae69-f6a8b229b040">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/e37ad037-6ffa-42d7-ae69-f6a8b229b040">
 				<skos:prefLabel>cuvântul.titlu-element.extern-trimitere-După
 				</skos:prefLabel>
 				<skos:notation>e37ad037-6ffa-42d7-ae69-f6a8b229b040</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/29f6c019-3035-4255-b058-8d7590dc1844">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/29f6c019-3035-4255-b058-8d7590dc1844">
 				<skos:prefLabel>cuvântul.titlu-element.necunoscut</skos:prefLabel>
 				<skos:notation>29f6c019-3035-4255-b058-8d7590dc1844</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/cc7be450-95c0-4595-8af1-4126b2feeb6a">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/cc7be450-95c0-4595-8af1-4126b2feeb6a">
 				<skos:prefLabel>
 					unul.sau.mai.multe.sensuri-explicarea.sensului-cf..izvor
 				</skos:prefLabel>
 				<skos:notation>cc7be450-95c0-4595-8af1-4126b2feeb6a</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/e35f86e2-cce3-4403-97c5-5328b23917cb">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/e35f86e2-cce3-4403-97c5-5328b23917cb">
 				<skos:prefLabel>unul.sau.mai.multe.sensuri-sensul-cf..etimon
 				</skos:prefLabel>
 				<skos:notation>e35f86e2-cce3-4403-97c5-5328b23917cb</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/6a97f20a-c0cb-4353-935b-e50cd92dffdc">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/6a97f20a-c0cb-4353-935b-e50cd92dffdc">
 				<skos:prefLabel>unul.sau.mai.multe.sensuri-sensul-cf..și.etimon
 				</skos:prefLabel>
 				<skos:notation>6a97f20a-c0cb-4353-935b-e50cd92dffdc</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/4a32a617-a57d-4a7f-bc4c-2e0f894b2da6">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/4a32a617-a57d-4a7f-bc4c-2e0f894b2da6">
 				<skos:prefLabel>variantă-directă-etimon.variantă-atestat
 				</skos:prefLabel>
 				<skos:notation>4a32a617-a57d-4a7f-bc4c-2e0f894b2da6</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/ba6fe844-4e84-49cc-ab8a-dbf0a499a10c">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/ba6fe844-4e84-49cc-ab8a-dbf0a499a10c">
 				<skos:prefLabel>variantă-directă-etimon.variantă-reconstruit
 				</skos:prefLabel>
 				<skos:notation>ba6fe844-4e84-49cc-ab8a-dbf0a499a10c</skos:notation>
 			</skos:Concept>
-
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/ab740bff-a8cf-4825-bd59-c17d53634b96">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/ab740bff-a8cf-4825-bd59-c17d53634b96">
 				<skos:prefLabel>variantă-directă-sg..refăcut.după.plural
 				</skos:prefLabel>
 				<skos:notation>ab740bff-a8cf-4825-bd59-c17d53634b96</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/60438b8e-cda7-452a-a378-a829ad3b9505">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/60438b8e-cda7-452a-a378-a829ad3b9505">
 				<skos:prefLabel>variantă-directă-singular.refăcut.după.pluralul
 				</skos:prefLabel>
 				<skos:notation>60438b8e-cda7-452a-a378-a829ad3b9505</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/1b09f6a0-948f-45dc-b863-0b9f33b1a27c">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/1b09f6a0-948f-45dc-b863-0b9f33b1a27c">
 				<skos:prefLabel>variantă-directă-prin.apropiere.de</skos:prefLabel>
 				<skos:notation>1b09f6a0-948f-45dc-b863-0b9f33b1a27c</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/8481697a-6e43-45ee-9088-1e8c69502808">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/8481697a-6e43-45ee-9088-1e8c69502808">
 				<skos:prefLabel>variantă-directă-prin.etimologie.populară
 				</skos:prefLabel>
 				<skos:notation>8481697a-6e43-45ee-9088-1e8c69502808</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/f846ad3c-4b77-48dd-9227-e0aa41cc314a">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/f846ad3c-4b77-48dd-9227-e0aa41cc314a">
 				<skos:prefLabel>variantă-directă-prin.accidente.fonetice-afereză
 				</skos:prefLabel>
 				<skos:notation>f846ad3c-4b77-48dd-9227-e0aa41cc314a</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/c86ff706-934b-46aa-9bde-ebcd47591be1">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/c86ff706-934b-46aa-9bde-ebcd47591be1">
 				<skos:prefLabel>variantă-directă-prin.accidente.fonetice-proteză
 				</skos:prefLabel>
 				<skos:notation>c86ff706-934b-46aa-9bde-ebcd47591be1</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/75671ed1-0a4c-4659-9322-cada9ff86dd3">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/75671ed1-0a4c-4659-9322-cada9ff86dd3">
 				<skos:prefLabel>variantă-directă-prin.accidente.fonetice-sincopă
 				</skos:prefLabel>
 				<skos:notation>75671ed1-0a4c-4659-9322-cada9ff86dd3</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/431e3a70-eaa9-45d0-98b7-a04193c492fd">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/431e3a70-eaa9-45d0-98b7-a04193c492fd">
 				<skos:prefLabel>variantă-directă-prin.accidente.fonetice-epenteză
 				</skos:prefLabel>
 				<skos:notation>431e3a70-eaa9-45d0-98b7-a04193c492fd</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/b67c854e-42a6-4e38-9eb7-785521fb4715">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/b67c854e-42a6-4e38-9eb7-785521fb4715">
 				<skos:prefLabel>variantă-directă-prin.accidente.fonetice-anaptixă
 				</skos:prefLabel>
 				<skos:notation>b67c854e-42a6-4e38-9eb7-785521fb4715</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/2a68a903-0fc1-48a1-954d-0e390b1f8eba">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/2a68a903-0fc1-48a1-954d-0e390b1f8eba">
 				<skos:prefLabel>variantă-directă-prin.accidente.fonetice-apocopă
 				</skos:prefLabel>
 				<skos:notation>2a68a903-0fc1-48a1-954d-0e390b1f8eba</skos:notation>
 			</skos:Concept>
-
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/2eaa7147-61b1-41c0-80b4-60f4d5876a3f">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/2eaa7147-61b1-41c0-80b4-60f4d5876a3f">
 				<skos:prefLabel>variantă-directă-prin.accidente.fonetice-elidare
 				</skos:prefLabel>
 				<skos:notation>2eaa7147-61b1-41c0-80b4-60f4d5876a3f</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/71002cde-7685-4b6c-b69e-da6b0b979147">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/71002cde-7685-4b6c-b69e-da6b0b979147">
 				<skos:prefLabel>variantă-directă-prin.accidente.fonetice-metateză
 				</skos:prefLabel>
 				<skos:notation>71002cde-7685-4b6c-b69e-da6b0b979147</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/1de5671f-a299-474c-9693-cd660557985b">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/1de5671f-a299-474c-9693-cd660557985b">
 				<skos:prefLabel>variantă-directă-prin.accidente.fonetice-propagare
 				</skos:prefLabel>
 				<skos:notation>1de5671f-a299-474c-9693-cd660557985b</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/75a165de-9cc1-4b12-9dc5-6a1f934e0502">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/75a165de-9cc1-4b12-9dc5-6a1f934e0502">
 				<skos:prefLabel>variantă-directă-prin.accidente.fonetice-sinereză
 				</skos:prefLabel>
 				<skos:notation>75a165de-9cc1-4b12-9dc5-6a1f934e0502</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/18b37f4b-ab5c-4626-94ae-f90e038c086f">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/18b37f4b-ab5c-4626-94ae-f90e038c086f">
 				<skos:prefLabel>variantă-directă-cu.schimbare.de.suf.
 				</skos:prefLabel>
 				<skos:notation>18b37f4b-ab5c-4626-94ae-f90e038c086f</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/dac8fbc2-b98a-47f5-a560-a8969e5cdfab">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/dac8fbc2-b98a-47f5-a560-a8969e5cdfab">
 				<skos:prefLabel>variantă-directă-sub.influența</skos:prefLabel>
 				<skos:notation>dac8fbc2-b98a-47f5-a560-a8969e5cdfab</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/a1286980-32ca-49fc-943a-f41ee7c6aae4">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/a1286980-32ca-49fc-943a-f41ee7c6aae4">
 				<skos:prefLabel>variantă-directă-refăcut.după.forma.articulată
 				</skos:prefLabel>
 				<skos:notation>a1286980-32ca-49fc-943a-f41ee7c6aae4</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/a852fe3a-4da7-4617-a2db-e63aa975d1ee">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/a852fe3a-4da7-4617-a2db-e63aa975d1ee">
 				<skos:prefLabel>variantă-directă-refăcut.după.sg..art.
 				</skos:prefLabel>
 				<skos:notation>a852fe3a-4da7-4617-a2db-e63aa975d1ee</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/2674134e-30ac-4573-ac97-ecc033926a80">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/2674134e-30ac-4573-ac97-ecc033926a80">
 				<skos:prefLabel>
 					variantă-directă-etimologie.populară.prin.apropiere.de
 				</skos:prefLabel>
 				<skos:notation>2674134e-30ac-4573-ac97-ecc033926a80</skos:notation>
 			</skos:Concept>
-
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/61f4343f-f5cb-4f8f-b289-a95626317cc8">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/61f4343f-f5cb-4f8f-b289-a95626317cc8">
 				<skos:prefLabel>variantă-directă-din.lat.</skos:prefLabel>
 				<skos:notation>61f4343f-f5cb-4f8f-b289-a95626317cc8</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/031efa10-7cf5-4f9f-b302-bc66c1bb54c2">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/031efa10-7cf5-4f9f-b302-bc66c1bb54c2">
 				<skos:prefLabel>variantă-directă-derivat.regresiv.de.la
 				</skos:prefLabel>
 				<skos:notation>031efa10-7cf5-4f9f-b302-bc66c1bb54c2</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/cd3f8312-8ba1-44b0-aba2-9b2026969b38">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/cd3f8312-8ba1-44b0-aba2-9b2026969b38">
 				<skos:prefLabel>variantă-directă-prin.confuzie.cu</skos:prefLabel>
 				<skos:notation>cd3f8312-8ba1-44b0-aba2-9b2026969b38</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/c9aaef20-4e2d-42c3-ac9a-77d565fa368f">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/c9aaef20-4e2d-42c3-ac9a-77d565fa368f">
 				<skos:prefLabel>
 					una.sau.mai.multe.variante.lexicale-variantă-trimitere-cf..cuvânt
 				</skos:prefLabel>
 				<skos:notation>c9aaef20-4e2d-42c3-ac9a-77d565fa368f</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/57d89982-2f4b-4016-865b-6bfcfcfd27e4">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/57d89982-2f4b-4016-865b-6bfcfcfd27e4">
 				<skos:prefLabel>
 					una.sau.mai.multe.variante.lexicale-variantă-trimitere-cf..izvor
 				</skos:prefLabel>
 				<skos:notation>57d89982-2f4b-4016-865b-6bfcfcfd27e4</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/5dbf5f55-3e53-4988-b87c-b8acd41e3560">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/5dbf5f55-3e53-4988-b87c-b8acd41e3560">
 				<skos:prefLabel>
 					una.sau.mai.multe.variante.lexicale-variante.cu-trimitere-cf..cuvânt
 				</skos:prefLabel>
 				<skos:notation>5dbf5f55-3e53-4988-b87c-b8acd41e3560</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/bf1e233a-c871-4f47-90e0-e80204d29d7f">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/bf1e233a-c871-4f47-90e0-e80204d29d7f">
 				<skos:prefLabel>una.sau.mai.multe.variante.lexicale-variante.cu-trimitere-cf..izvor
 				</skos:prefLabel>
 				<skos:notation>bf1e233a-c871-4f47-90e0-e80204d29d7f</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/0ae344ed-fbec-484d-8990-7e7ead5137fe">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/0ae344ed-fbec-484d-8990-7e7ead5137fe">
 				<skos:prefLabel>
 					una.sau.mai.multe.variante.lexicale-variante.de.tipul-trimitere-cf..cuvânt
 				</skos:prefLabel>
 				<skos:notation>0ae344ed-fbec-484d-8990-7e7ead5137fe</skos:notation>
 			</skos:Concept>
-			<skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-				rdf:about="http://lingv.ro/ontology/etymology-types/3b5f0ec0-83f8-40ad-8f16-1bf513ff5572">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/3b5f0ec0-83f8-40ad-8f16-1bf513ff5572">
 				<skos:prefLabel>una.sau.mai.multe.variante.lexicale-variante.de.tipul-trimitere-cf..izvor</skos:prefLabel>
 				<skos:notation>3b5f0ec0-83f8-40ad-8f16-1bf513ff5572</skos:notation>
 			</skos:Concept>
