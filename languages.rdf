@@ -4,252 +4,252 @@
 	<skos:OrderedCollection rdf:about="http://lingv.ro/ontology/languages">
 		<rdfs:label>Limbi</rdfs:label>
 		<skos:memberList rdf:parseType="Collection">
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/sq">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#sq">
 				<skos:prefLabel>alb.</skos:prefLabel>
 				<skos:altLabel>limba albaneză; albanezul</skos:altLabel>
 				<skos:notation>sq</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/rup">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#rup">
 				<skos:prefLabel>ar.</skos:prefLabel>
 				<skos:altLabel>aromân</skos:altLabel>
 				<skos:notation>rup</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/bg">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#bg">
 				<skos:prefLabel>bg.</skos:prefLabel>
 				<skos:altLabel>limba bulgară; bulgărescul</skos:altLabel>
 				<skos:notation>bg</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/ca">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#ca">
 				<skos:prefLabel>cat.</skos:prefLabel>
 				<skos:altLabel>limba catalană; catalanul</skos:altLabel>
 				<skos:notation>ca</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/cs">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#cs">
 				<skos:prefLabel>ceh.</skos:prefLabel>
 				<skos:altLabel>limba cehă; cehescul</skos:altLabel>
 				<skos:notation>cs</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/qwm">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#qwm">
 				<skos:prefLabel>cum.</skos:prefLabel>
 				<skos:altLabel>limba cumană; cumanul</skos:altLabel>
 				<skos:notation>qwm</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/dlm">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#dlm">
 				<skos:prefLabel>dalm.</skos:prefLabel>
 				<skos:altLabel>limba dalmată; dalmatul</skos:altLabel>
 				<skos:notation>dlm</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/he">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#he">
 				<skos:prefLabel>ebr.</skos:prefLabel>
 				<skos:altLabel>limba ebraică; ebraicul</skos:altLabel>
 				<skos:notation>he</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/rm-puter-vallader">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#rm-puter-vallader">
 				<skos:prefLabel>engad.</skos:prefLabel>
 				<skos:altLabel>engadin</skos:altLabel>
 				<skos:notation>rm-puter-vallader</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/en">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#en">
 				<skos:prefLabel>engl.</skos:prefLabel>
 				<skos:altLabel>limba engleză; englezescul</skos:altLabel>
 				<skos:notation>en</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/eo">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#eo">
 				<skos:prefLabel>esper.</skos:prefLabel>
 				<skos:altLabel>esperanto</skos:altLabel>
 				<skos:notation>eo</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/fr">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#fr">
 				<skos:prefLabel>fr.</skos:prefLabel>
 				<skos:altLabel>limba franceză; franţuzescul</skos:altLabel>
 				<skos:notation>fr</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/fur">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#fur">
 				<skos:prefLabel>friul.</skos:prefLabel>
 				<skos:altLabel>friulan</skos:altLabel>
 				<skos:notation>fur</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/de">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#de">
 				<skos:prefLabel>germ.</skos:prefLabel>
 				<skos:altLabel>limba germană; germanul</skos:altLabel>
 				<skos:notation>de</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/de-AT">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#de-AT">
 				<skos:prefLabel>germ. austr.</skos:prefLabel>
 				<skos:altLabel>limba germană din Austria; germnanul austriac </skos:altLabel>
 				<skos:notation>de-AT</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/grc">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#grc">
 				<skos:prefLabel>gr.</skos:prefLabel>
 				<skos:altLabel>limba greacă; grecescul</skos:altLabel>
 				<skos:notation>grc</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/grc-x-Byzantin">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#grc-x-Byzantin">
 				<skos:prefLabel>gr. bizant.</skos:prefLabel>
 				<skos:altLabel/>
 				<skos:notation>grc-x-Byzantin</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/ruo">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#ruo">
 				<skos:prefLabel>ir.</skos:prefLabel>
 				<skos:altLabel>istroromân</skos:altLabel>
 				<skos:notation>ruo</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/it">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#it">
 				<skos:prefLabel>it.</skos:prefLabel>
 				<skos:altLabel>limba italiană; italienescul</skos:altLabel>
 				<skos:notation>it</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/la">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#la">
 				<skos:prefLabel>lat.</skos:prefLabel>
 				<skos:altLabel>(moştenit din) limba latină; latinescul </skos:altLabel>
 				<skos:notation>la</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/la-x-popular">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#la-x-popular">
 				<skos:prefLabel>lat. vulg.</skos:prefLabel>
 				<skos:altLabel>latina vulgară (sau populară)</skos:altLabel>
 				<skos:notation>la-x-popular</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#">
 				<skos:prefLabel>lat. neol.</skos:prefLabel>
 				<skos:altLabel>latina neologică (sau savantă)</skos:altLabel>
 				<skos:notation/>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/la-x-medieval">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#la-x-medieval">
 				<skos:prefLabel>lat. med.</skos:prefLabel>
 				<skos:altLabel>latina medievală</skos:altLabel>
 				<skos:notation>la-x-medieval</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/lt">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#lt">
 				<skos:prefLabel>lituan.</skos:prefLabel>
 				<skos:altLabel>lutuaniană</skos:altLabel>
 				<skos:notation>lt</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#">
 				<skos:prefLabel>maced.</skos:prefLabel>
 				<skos:altLabel>limba slavă macedoneană; slavul macedoneanul </skos:altLabel>
 				<skos:notation/>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/hu">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#hu">
 				<skos:prefLabel>magh.</skos:prefLabel>
 				<skos:altLabel>limba maghiară; maghiarul</skos:altLabel>
 				<skos:notation>hu</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/ruq">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#ruq">
 				<skos:prefLabel>mr.</skos:prefLabel>
 				<skos:altLabel>meglenoromân</skos:altLabel>
 				<skos:notation>ruq</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/gre">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#gre">
 				<skos:prefLabel>gr. bizant.</skos:prefLabel>
 				<skos:altLabel>limba medie greacă; mediogrecescul</skos:altLabel>
 				<skos:notation>gre</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/el">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#el">
 				<skos:prefLabel>ngr.</skos:prefLabel>
 				<skos:altLabel>limba neogreacă; neogrecescul</skos:altLabel>
 				<skos:notation>el</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/pl">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#pl">
 				<skos:prefLabel>pol.</skos:prefLabel>
 				<skos:altLabel>limba poloneză; polonezul</skos:altLabel>
 				<skos:notation>pl</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/pt">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#pt">
 				<skos:prefLabel>port.</skos:prefLabel>
 				<skos:altLabel>limba portugheză; portughezul</skos:altLabel>
 				<skos:notation>pt</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/roa">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#roa">
 				<skos:prefLabel>prov.</skos:prefLabel>
 				<skos:altLabel>limba provensală; provensalul</skos:altLabel>
 				<skos:notation>roa</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/rm">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#rm">
 				<skos:prefLabel>retorom.</skos:prefLabel>
 				<skos:altLabel>limba retoromană; retoromanul</skos:altLabel>
 				<skos:notation>rm</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/ro">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#ro">
 				<skos:prefLabel>rom.</skos:prefLabel>
 				<skos:altLabel>limba română; românescul</skos:altLabel>
 				<skos:notation>ro</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/ru">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#ru">
 				<skos:prefLabel>rus.</skos:prefLabel>
 				<skos:altLabel>limba rusă; rusescul</skos:altLabel>
 				<skos:notation>ru</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/sxu">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#sxu">
 				<skos:prefLabel>săs.</skos:prefLabel>
 				<skos:altLabel>săsesc</skos:altLabel>
 				<skos:notation>sxu</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/sc">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#sc">
 				<skos:prefLabel>sard.</skos:prefLabel>
 				<skos:altLabel>limba sardă; sardul</skos:altLabel>
 				<skos:notation>sc</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/sr">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#sr">
 				<skos:prefLabel>sb.</skos:prefLabel>
 				<skos:altLabel>limba sârbă; sârbescul</skos:altLabel>
 				<skos:notation>sr</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/scn">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#scn">
 				<skos:prefLabel>sicil.</skos:prefLabel>
 				<skos:altLabel>dialectul sicilian</skos:altLabel>
 				<skos:notation>scn</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#">
 				<skos:prefLabel>sl.</skos:prefLabel>
 				<skos:altLabel>limba slavă; slavul?</skos:altLabel>
 				<skos:notation/>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#">
 				<skos:prefLabel>slavon.</skos:prefLabel>
 				<skos:altLabel>limba slavonă; slavonul</skos:altLabel>
 				<skos:notation/>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/sl">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#sl">
 				<skos:prefLabel>slov.</skos:prefLabel>
 				<skos:altLabel>limba slovenă; slovenul</skos:altLabel>
 				<skos:notation>sl</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/es">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#es">
 				<skos:prefLabel>sp.</skos:prefLabel>
 				<skos:altLabel>limba spaniolă; spaniolul</skos:altLabel>
 				<skos:notation>es</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/tt">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#tt">
 				<skos:prefLabel>tăt.</skos:prefLabel>
 				<skos:altLabel>limba tătară; tătărescul</skos:altLabel>
 				<skos:notation>tt</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/tr">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#tr">
 				<skos:prefLabel>tc.</skos:prefLabel>
 				<skos:altLabel>limba turcă; turcescul</skos:altLabel>
 				<skos:notation>tr</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/tr-x-dialect">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#tr-x-dialect">
 				<skos:prefLabel>tc. dial.</skos:prefLabel>
 				<skos:altLabel/>
 				<skos:notation>tr-x-dialect</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/rom">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#rom">
 				<skos:prefLabel>ţig.</skos:prefLabel>
 				<skos:altLabel>limba ţigănească; ţigănescul</skos:altLabel>
 				<skos:notation>rom</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/uk">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#uk">
 				<skos:prefLabel>ucr.</skos:prefLabel>
 				<skos:altLabel>limba ucrainiană; ucraineanul</skos:altLabel>
 				<skos:notation>uk</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/dlm-x-vegliot">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#dlm-x-vegliot">
 				<skos:prefLabel>vegl.</skos:prefLabel>
 				<skos:altLabel>limba vegliotă; vegliotul</skos:altLabel>
 				<skos:notation>dlm-x-vegliot</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/sla-pro?">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#sla-pro?">
 				<skos:prefLabel>v. sl.</skos:prefLabel>
 				<skos:altLabel>limba veche slavă; vechiul slav</skos:altLabel>
 				<skos:notation>sla-pro?</skos:notation>
