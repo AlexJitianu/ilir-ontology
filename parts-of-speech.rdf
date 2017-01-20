@@ -8,39 +8,39 @@
 				<skos:prefLabel>s.</skos:prefLabel>
 				<skos:notation>s.</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/parts-of-speech/03ff423d-721c-434b-96bf-1fecb2934c5f">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/parts-of-speech/proper-noun">
 				<skos:prefLabel>s. pr.</skos:prefLabel>
 				<skos:notation>s. pr.</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/parts-of-speech/ef8db06f-8bfd-4377-8432-6ed5a1246b65">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/parts-of-speech/verb">
 				<skos:prefLabel>vb.</skos:prefLabel>
 				<skos:notation>vb.</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/parts-of-speech/3e093879-d219-4e09-819c-692df82a8546">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/parts-of-speech/adjective">
 				<skos:prefLabel>adj.</skos:prefLabel>
 				<skos:notation>adj.</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/parts-of-speech/97aacf30-cdba-4a76-9dce-780317e60682">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/parts-of-speech/adverb">
 				<skos:prefLabel>adv.</skos:prefLabel>
 				<skos:notation>adv.</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/parts-of-speech/1b542777-e1c1-4c7d-b1c7-3db7945f9bbb">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/parts-of-speech/conjunction">
 				<skos:prefLabel>conj.</skos:prefLabel>
 				<skos:notation>conj.</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/parts-of-speech/9bcd6edc-7dc6-4bd5-ab2b-d17f743f7e31">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/parts-of-speech/interjection">
 				<skos:prefLabel>interj.</skos:prefLabel>
 				<skos:notation>interj.</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/parts-of-speech/63cc7f1f-0eee-4bc7-9142-083ce9690cf4">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/parts-of-speech/preposition">
 				<skos:prefLabel>prep.</skos:prefLabel>
 				<skos:notation>prep.</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/parts-of-speech/83d25427-7f94-4ab4-baab-be1f55365d9c">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/parts-of-speech/article">
 				<skos:prefLabel>art.</skos:prefLabel>
 				<skos:notation>art.</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/parts-of-speech/fadda7a7-5195-4908-b73f-6033f23700f4">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/parts-of-speech/pronoun">
 				<skos:prefLabel>pron.</skos:prefLabel>
 				<skos:notation>pron.</skos:notation>
 			</skos:Concept>
@@ -48,7 +48,7 @@
 				<skos:prefLabel>subst.</skos:prefLabel>
 				<skos:notation>subst.</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/parts-of-speech/num.">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/parts-of-speech/numeral">
 				<skos:prefLabel>num.</skos:prefLabel>
 				<skos:notation>num.</skos:notation>
 			</skos:Concept>
