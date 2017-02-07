@@ -2,6 +2,61 @@ xquery version "3.0";
 
 module namespace ilir = "http://lingv.ro/ontology/templates/#ilir.xqm";
 
+declare variable $ilir:lemma-template as element() :=
+	<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-${uuid}">
+		<teiHeader type="text">
+			<fileDesc>
+				<titleStmt>
+					<title />
+					<author />
+					<editor role="reviewer" />
+				</titleStmt>
+				<publicationStmt>
+					<publisher>Linguistic Institute of the Romanian Academy</publisher>
+				</publicationStmt>
+				<sourceDesc>
+					<p>born digital</p>
+				</sourceDesc>
+			</fileDesc>
+			<profileDesc>
+				<creation>
+					<date when-iso="${date(yyyy-MM-dd'T'HH:mm:ssZ)}" />
+				</creation>
+			</profileDesc>
+		</teiHeader>
+		<text>
+			<body>
+				<entry>
+					<form type="headword">
+						<orth xml:lang="ro-x-accent-upcase-vowels" n="" />
+						<syll />
+						<pron />
+					</form>
+					<gramGrp>
+						<pos value="" />
+					</gramGrp>
+					<sense xml:id="uuid-${uuid}">
+						<idno n="" type="level-label" />
+						<idno n="tip-unitate-semantică-subsumată" type="unknown" />
+						<idno n="tip-proces-semantic" type="unknown" />
+						<def n="" />
+						<cit>
+							<quote />
+							<bibl type="unknown">
+								<ptr target="unknown" />
+								<date />
+								<citedRange />
+							</bibl>
+						</cit>
+					</sense>
+					<etym cert="high">
+						<idno type="unknown" />
+					</etym>
+				</entry>
+			</body>
+		</text>
+	</TEI>
+;
 declare variable $ilir:gramGrp-template as element() :=
    <gramGrp xmlns="http://www.tei-c.org/ns/1.0">
        <pos value="" />
@@ -32,6 +87,16 @@ declare variable $ilir:cit-template as element() :=
         <quote />
         {$ilir:bibl-template}
     </cit>
+;
+
+declare variable $ilir:sense-template as element() :=
+    <sense xmlns="http://www.tei-c.org/ns/1.0" xml:id="id">
+        <idno n="" type="level-label" />
+        <idno n="tip-unitate-semantică-subsumată" type="unknown" />
+        <idno n="tip-proces-semantic" type="unknown" />
+        {$ilir:def-template}
+        {$ilir:cit-template}
+    </sense>
 ;
 
 declare variable $ilir:term-template as element() :=
@@ -102,25 +167,15 @@ declare variable $ilir:ptr-cuvântul.titlu-formație.internă-compus-format.din-
     <ptr xmlns="http://www.tei-c.org/ns/1.0" targetLang="ro" type="cuvântul.titlu-formație.internă-compus-format.din-element.adăugat" target="unknown" />
 ;
 
-declare variable $ilir:sense-template as element() :=
-    <sense xmlns="http://www.tei-c.org/ns/1.0" xml:id="id">
-        <idno n="" type="level-label" />
-        <idno n="tip-unitate-semantică-subsumată" type="unknown" />
-        <idno n="tip-proces-semantic" type="unknown" />
-        {$ilir:def-template}
-        {$ilir:cit-template}
-    </sense>
-;
-
-declare variable $ilir:pRef as element() :=
+declare variable $ilir:pRef-template as element() :=
 	<pRef xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ro-x-accent-lowcase-vowels" />
 ;
 
-declare variable $ilir:pronunciation-form as element() :=
+declare variable $ilir:pronunciation-form-template as element() :=
 	<form xmlns="http://www.tei-c.org/ns/1.0" type="pronunciation" value="" />
 ;
 
-declare variable $ilir:writing-form as element() :=
+declare variable $ilir:writing-form-template as element() :=
 	<form xmlns="http://www.tei-c.org/ns/1.0" type="writing">
 		<oVar />
 	</form>
