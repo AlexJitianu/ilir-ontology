@@ -2,61 +2,6 @@ xquery version "3.0";
 
 module namespace ilir = "http://lingv.ro/ontology/templates/#ilir.xqm";
 
-declare variable $ilir:lemma-template as element() :=
-	<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-${uuid}">
-		<teiHeader type="text">
-			<fileDesc>
-				<titleStmt>
-					<title />
-					<author />
-					<editor role="reviewer" />
-				</titleStmt>
-				<publicationStmt>
-					<publisher>Linguistic Institute of the Romanian Academy</publisher>
-				</publicationStmt>
-				<sourceDesc>
-					<p>born digital</p>
-				</sourceDesc>
-			</fileDesc>
-			<profileDesc>
-				<creation>
-					<date when-iso="${date(yyyy-MM-dd'T'HH:mm:ssZ)}" />
-				</creation>
-			</profileDesc>
-		</teiHeader>
-		<text>
-			<body>
-				<entry>
-					<form type="headword">
-						<orth xml:lang="ro-x-accent-upcase-vowels" n="" />
-						<syll />
-						<pron />
-					</form>
-					<gramGrp>
-						<pos value="" />
-					</gramGrp>
-					<sense xml:id="uuid-${uuid}">
-						<idno n="" type="level-label" />
-						<idno n="tip-unitate-semantică-subsumată" type="unknown" />
-						<idno n="tip-proces-semantic" type="unknown" />
-						<def n="" />
-						<cit>
-							<quote />
-							<bibl type="unknown">
-								<ptr target="unknown" />
-								<date />
-								<citedRange />
-							</bibl>
-						</cit>
-					</sense>
-					<etym cert="high">
-						<idno type="unknown" />
-					</etym>
-				</entry>
-			</body>
-		</text>
-	</TEI>
-;
 declare variable $ilir:gramGrp-template as element() :=
    <gramGrp xmlns="http://www.tei-c.org/ns/1.0">
        <pos value="" />
