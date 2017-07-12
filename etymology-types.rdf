@@ -383,6 +383,10 @@
 			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/#uuid-3b5f0ec0-83f8-40ad-8f16-1bf513ff5572">
 				<skos:prefLabel>cuvântul.titlu-loc.lat.</skos:prefLabel>
 				<skos:notation>uuid-b02c9496-3671-3d21-87f9-6e9f3d40375f</skos:notation>
+			</skos:Concept>	
+			<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/#uuid-3b5f0ec0-83f8-40ad-8f16-1bf513ff5572">
+				<skos:prefLabel>variantă-directă-etimon.variantă-prin.hiperurbanism</skos:prefLabel>
+				<skos:notation>uuid-2f6c5573-0f3b-3194-9828-99fa8092d4b0</skos:notation>
 			</skos:Concept>			
 		</skos:memberList>
 	</skos:OrderedCollection>
