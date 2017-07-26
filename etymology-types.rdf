@@ -223,7 +223,7 @@
 					</skos:Concept>
 				</skos:memberList>
 			</skos:OrderedCollection>
-			<skos:OrderedCollection rdf:about="http://lingv.ro/ontology/etymology-types/senses">
+			<skos:OrderedCollection rdf:about="http://lingv.ro/ontology/etymology-types/sense">
 				<rdfs:label>Tipuri de etimologii pentru sensuri</rdfs:label>
 				<skos:memberList rdf:parseType="Collection">
 					<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/#uuid-cc7be450-95c0-4595-8af1-4126b2feeb6a">
@@ -249,7 +249,7 @@
 				</skos:memberList>
 			</skos:OrderedCollection>
 
-			<skos:OrderedCollection rdf:about="http://lingv.ro/ontology/etymology-types/variants">
+			<skos:OrderedCollection rdf:about="http://lingv.ro/ontology/etymology-types/variant">
 				<rdfs:label>Tipuri de etimologii pentru variante</rdfs:label>
 				<skos:memberList rdf:parseType="Collection">
 					<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/#uuid-3b5f0ec0-83f8-40ad-8f16-1bf513ff5572">
