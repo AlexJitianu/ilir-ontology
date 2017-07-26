@@ -242,10 +242,6 @@
 						</skos:prefLabel>
 						<skos:notation>uuid-6a97f20a-c0cb-4353-935b-e50cd92dffdc</skos:notation>
 					</skos:Concept>
-					<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/#uuid-1b09f6a0-948f-45dc-b863-0b9f33b1a27c">
-						<skos:prefLabel>variantă-directă-prin.apropiere.de</skos:prefLabel>
-						<skos:notation>uuid-1b09f6a0-948f-45dc-b863-0b9f33b1a27c</skos:notation>
-					</skos:Concept>
 				</skos:memberList>
 			</skos:OrderedCollection>
 
@@ -330,6 +326,10 @@
 						<skos:prefLabel>variantă-directă-prin.accidente.fonetice-sinereză
 						</skos:prefLabel>
 						<skos:notation>uuid-75a165de-9cc1-4b12-9dc5-6a1f934e0502</skos:notation>
+					</skos:Concept>
+					<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/#uuid-1b09f6a0-948f-45dc-b863-0b9f33b1a27c">
+						<skos:prefLabel>variantă-directă-prin.apropiere.de</skos:prefLabel>
+						<skos:notation>uuid-1b09f6a0-948f-45dc-b863-0b9f33b1a27c</skos:notation>
 					</skos:Concept>
 					<skos:Concept rdf:about="http://lingv.ro/ontology/etymology-types/#uuid-18b37f4b-ab5c-4626-94ae-f90e038c086f">
 						<skos:prefLabel>variantă-directă-cu.schimbare.de.suf.
