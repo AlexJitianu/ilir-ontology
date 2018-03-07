@@ -7,5 +7,6 @@
 		<skos:hasTopConcept rdf:resource="http://lingv.ro/ontology/bibliography" />
 		<skos:hasTopConcept rdf:resource="http://lingv.ro/ontology/etymology-types" />
 		<skos:hasTopConcept rdf:resource="http://lingv.ro/ontology/parts-of-speech" />
+		<skos:hasTopConcept rdf:resource="http://lingv.ro/ontology/usage" />
 	</skos:ConceptScheme>
 </rdf:RDF>
