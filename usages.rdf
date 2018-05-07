@@ -230,22 +230,6 @@
                         <skos:exactMatch rdf:resource=""/>
                         <skos:notation>uuid-1172de7a-3030-306b-a244-c30702135d32</skos:notation>
                     </skos:Concept>
-                    <skos:Concept rdf:about="http://lingv.ro/ontology/usage/types/#uuid-2c194127-d6e1-3313-90d6-e3f0a77e6c9e">
-                        <skos:prefLabel>Bucov.</skos:prefLabel>
-                        <skos:altLabel/>
-                        <skos:hiddenLabel>Bucov.</skos:hiddenLabel>
-                        <skos:broadMatch rdf:resource="http://lingv.ro/ontology/usage/domains/#uuid-ad0fec53-2734-34a6-824e-f4e95ec450c7"/>
-                        <skos:exactMatch rdf:resource=""/>
-                        <skos:notation>uuid-2c194127-d6e1-3313-90d6-e3f0a77e6c9e</skos:notation>
-                    </skos:Concept>
-                    <skos:Concept rdf:about="http://lingv.ro/ontology/usage/types/#uuid-d50fd00f-1559-356f-80de-7a0e65f37227">
-                        <skos:prefLabel>Criș.</skos:prefLabel>
-                        <skos:altLabel/>
-                        <skos:hiddenLabel>Criș.</skos:hiddenLabel>
-                        <skos:broadMatch rdf:resource="http://lingv.ro/ontology/usage/domains/#uuid-ad0fec53-2734-34a6-824e-f4e95ec450c7"/>
-                        <skos:exactMatch rdf:resource=""/>
-                        <skos:notation>uuid-d50fd00f-1559-356f-80de-7a0e65f37227</skos:notation>
-                    </skos:Concept>
                     <skos:Concept rdf:about="http://lingv.ro/ontology/usage/types/#uuid-acd6cd25-9926-37ef-ac5c-2e66de1d6678">
                         <skos:prefLabel>în nordul</skos:prefLabel>
                         <skos:altLabel/>
@@ -1998,14 +1982,6 @@
                         <skos:exactMatch rdf:resource=""/>
                         <skos:notation>uuid-0ab5c4d4-ebd8-34fb-a8b2-77eb326f0e35</skos:notation>
                     </skos:Concept>
-                    <skos:Concept rdf:about="http://lingv.ro/ontology/usage/types/#uuid-0ab5c4d4-ebd8-34fb-a8b2-77eb326f0e35">
-                        <skos:prefLabel>cu subiectul personificat</skos:prefLabel>
-                        <skos:altLabel/>
-                        <skos:hiddenLabel>cu.subiectul.personificat</skos:hiddenLabel>
-                        <skos:broadMatch rdf:resource="http://lingv.ro/ontology/usage/domains/#uuid-d37fb951-5e65-3361-b470-715cb6c8bcb7"/>
-                        <skos:exactMatch rdf:resource=""/>
-                        <skos:notation>uuid-0ab5c4d4-ebd8-34fb-a8b2-77eb326f0e35</skos:notation>
-                    </skos:Concept>
                     <skos:Concept rdf:about="http://lingv.ro/ontology/usage/types/#uuid-5d528928-8777-31fe-88b3-b2c1f91b6e02">
                         <skos:prefLabel>cu subiectul exprimat sau subînțeles</skos:prefLabel>
                         <skos:altLabel/>
@@ -2366,14 +2342,6 @@
                         <skos:exactMatch rdf:resource=""/>
                         <skos:notation>uuid-6c110387-0063-3d56-adcf-d642e54f8509</skos:notation>
                     </skos:Concept>
-                    <skos:Concept rdf:about="http://lingv.ro/ontology/usage/types/#uuid-0eb27a6c-3c35-3d0b-9f7d-273e4fa2e6f6">
-                        <skos:prefLabel>în textele</skos:prefLabel>
-                        <skos:altLabel/>
-                        <skos:hiddenLabel>în.textele</skos:hiddenLabel>
-                        <skos:broadMatch rdf:resource="http://lingv.ro/ontology/usage/domains/#uuid-ec3b66bb-0396-3851-821e-bfff4e0ab297"/>
-                        <skos:exactMatch rdf:resource=""/>
-                        <skos:notation>uuid-0eb27a6c-3c35-3d0b-9f7d-273e4fa2e6f6</skos:notation>
-                    </skos:Concept>
                     <skos:Concept rdf:about="http://lingv.ro/ontology/usage/types/#uuid-b87d998d-dfc5-36e2-b425-a00c108d079a">
                         <skos:prefLabel>între articol şi numeral intervine art. nehot.</skos:prefLabel>
                         <skos:altLabel/>
@@ -2597,14 +2565,6 @@
                         <skos:broadMatch rdf:resource="http://lingv.ro/ontology/usage/domains/#uuid-2e73f82b-6477-3b04-beaa-2c2c210a9d3e"/>
                         <skos:exactMatch rdf:resource=""/>
                         <skos:notation>uuid-a00ae652-2998-3899-871d-501bdbce9d27</skos:notation>
-                    </skos:Concept>
-                    <skos:Concept rdf:about="http://lingv.ro/ontology/usage/types/#uuid-661042c3-4f57-3510-b3a2-5b3d5d34f110">
-                        <skos:prefLabel>despre</skos:prefLabel>
-                        <skos:altLabel/>
-                        <skos:hiddenLabel>despre</skos:hiddenLabel>
-                        <skos:broadMatch rdf:resource="http://lingv.ro/ontology/usage/domains/#uuid-2e73f82b-6477-3b04-beaa-2c2c210a9d3e"/>
-                        <skos:exactMatch rdf:resource=""/>
-                        <skos:notation>uuid-661042c3-4f57-3510-b3a2-5b3d5d34f110</skos:notation>
                     </skos:Concept>
                     <skos:Concept rdf:about="http://lingv.ro/ontology/usage/types/#uuid-e021fe6e-12ab-31a5-9099-2bb53820b499">
                         <skos:prefLabel>determină</skos:prefLabel>
