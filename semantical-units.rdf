@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <skos:OrderedCollection rdf:about="http://lingv.ro/ontology/semantical-unit">
+        <rdfs:label>Tipuri de unități semantice subsumate</rdfs:label>
+        <skos:memberList rdf:parseType="Collection">
+            <skos:Concept rdf:about="http://lingv.ro/ontology/semantical-unit/types/#ilir-acc022ee-9172-30dc-89ab-dab64ed20513">
+                <skos:prefLabel>proverb</skos:prefLabel>
+                <skos:altLabel>proverb</skos:altLabel>
+                <skos:notation>ilir-acc022ee-9172-30dc-89ab-dab64ed20513</skos:notation>
+            </skos:Concept>
+            <skos:Concept rdf:about="http://lingv.ro/ontology/semantical-unit/types/#ilir-74340187-5f84-37f2-8cea-285bfb07d03f">
+                <skos:prefLabel>zicătoare</skos:prefLabel>
+                <skos:altLabel>saying</skos:altLabel>
+                <skos:notation>ilir-74340187-5f84-37f2-8cea-285bfb07d03f</skos:notation>
+            </skos:Concept>
+            <skos:Concept rdf:about="http://lingv.ro/ontology/semantical-unit/types/#ilir-1a04e836-e358-3693-8fe8-43aca289510d">
+                <skos:prefLabel>ghicitoare</skos:prefLabel>
+                <skos:altLabel>sibyl</skos:altLabel>
+                <skos:notation>ilir-1a04e836-e358-3693-8fe8-43aca289510d</skos:notation>
+            </skos:Concept>
+            <skos:Concept rdf:about="http://lingv.ro/ontology/semantical-unit/types/#ilir-2953cc06-59be-34cc-b372-aec5374a771e">
+                <skos:prefLabel>sintagmă</skos:prefLabel>
+                <skos:altLabel>syntagma</skos:altLabel>
+                <skos:notation>ilir-2953cc06-59be-34cc-b372-aec5374a771e</skos:notation>
+            </skos:Concept>
+            <skos:Concept rdf:about="http://lingv.ro/ontology/semantical-unit/types/#ilir-47186732-c47a-3d43-bee3-09aa20d9d213">
+                <skos:prefLabel>expresie</skos:prefLabel>
+                <skos:altLabel>phrase</skos:altLabel>
+                <skos:notation>ilir-47186732-c47a-3d43-bee3-09aa20d9d213</skos:notation>
+            </skos:Concept>
+            <skos:Concept rdf:about="http://lingv.ro/ontology/semantical-unit/types/#ilir-fae21b6c-0498-3fbf-b0b6-899d05b23a48">
+                <skos:prefLabel>compus</skos:prefLabel>
+                <skos:altLabel>compound</skos:altLabel>
+                <skos:notation>ilir-fae21b6c-0498-3fbf-b0b6-899d05b23a48</skos:notation>
+            </skos:Concept>
+            <skos:Concept rdf:about="http://lingv.ro/ontology/semantical-unit/types/#ilir-7626011a-fbb3-31a4-9be0-5988a0726961">
+                <skos:prefLabel>loc. adj.</skos:prefLabel>
+                <skos:altLabel>adjectival-locution</skos:altLabel>
+                <skos:notation>ilir-7626011a-fbb3-31a4-9be0-5988a0726961</skos:notation>
+            </skos:Concept>
+            <skos:Concept rdf:about="http://lingv.ro/ontology/semantical-unit/types/#ilir-04255df7-1cf1-3314-9c6e-a8ad010cc819">
+                <skos:prefLabel>loc. adv.</skos:prefLabel>
+                <skos:altLabel>adverbial-locution</skos:altLabel>
+                <skos:notation>ilir-04255df7-1cf1-3314-9c6e-a8ad010cc819</skos:notation>
+            </skos:Concept>
+            <skos:Concept rdf:about="http://lingv.ro/ontology/semantical-unit/types/#ilir-3dbc1505-dcc2-32e0-a15d-acfecf2d56d6">
+                <skos:prefLabel>loc. prep.</skos:prefLabel>
+                <skos:altLabel>prepositional-locution</skos:altLabel>
+                <skos:notation>ilir-3dbc1505-dcc2-32e0-a15d-acfecf2d56d6</skos:notation>
+            </skos:Concept>
+            <skos:Concept rdf:about="http://lingv.ro/ontology/semantical-unit/types/#ilir-a17650fb-c7ed-37f4-bab7-0fd496a4509f">
+                <skos:prefLabel>loc. conj.</skos:prefLabel>
+                <skos:altLabel>conjunctional-locution</skos:altLabel>
+                <skos:notation>ilir-a17650fb-c7ed-37f4-bab7-0fd496a4509f</skos:notation>
+            </skos:Concept>
+            <skos:Concept rdf:about="http://lingv.ro/ontology/semantical-unit/types/#ilir-deb2c7b2-5552-311b-9ee5-57e229412635">
+                <skos:prefLabel>loc. vb.</skos:prefLabel>
+                <skos:altLabel>verbal-locution</skos:altLabel>
+                <skos:notation>ilir-deb2c7b2-5552-311b-9ee5-57e229412635</skos:notation>
+            </skos:Concept>
+        </skos:memberList>
+    </skos:OrderedCollection>
+</rdf:RDF>
