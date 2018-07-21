@@ -426,7 +426,7 @@ let $domain-concepts :=
     let $notation := "uuid-" || util:uuid("usage-domains-" || $domain)
     
     return
-        <skos:Concept xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" rdf:about="http://lingv.ro/ontology/usage/domains/#{$notation}">
+        <skos:Concept xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" rdf:about="http://lingv.ro/ontology/usages/domains/#{$notation}">
         	<skos:prefLabel>{$domain}</skos:prefLabel>
         	<skos:altLabel>{$domain}</skos:altLabel>
         	<skos:notation>{$notation}</skos:notation>
@@ -435,10 +435,10 @@ let $domain-concepts :=
 let $controlled-vocabulary :=
     <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#"
     	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-    	<skos:OrderedCollection rdf:about="http://lingv.ro/ontology/usage">
+    	<skos:OrderedCollection rdf:about="http://lingv.ro/ontology/usages">
     		<rdfs:label>Indicații de folosire</rdfs:label>
     		<skos:memberList rdf:parseType="Collection">
-    			<skos:OrderedCollection rdf:about="http://lingv.ro/ontology/usage/types">
+    			<skos:OrderedCollection rdf:about="http://lingv.ro/ontology/usages/types">
     				<rdfs:label>Tipuri de indicații de folosire</rdfs:label>
     				<skos:memberList rdf:parseType="Collection">
                 		{
@@ -450,7 +450,7 @@ let $controlled-vocabulary :=
                             let $broad-match := $domain-concepts[skos:altLabel = $domain]/@rdf:about
                             
                             return
-                                <skos:Concept rdf:about="http://lingv.ro/ontology/usage/types/#{$notation}">
+                                <skos:Concept rdf:about="http://lingv.ro/ontology/usages/types/#{$notation}">
                                 	<skos:prefLabel>{$type-label}</skos:prefLabel>
                                 	<skos:altLabel>{$type}</skos:altLabel>
                                 	<skos:broadMatch rdf:resource="{$broad-match}" />
@@ -459,7 +459,7 @@ let $controlled-vocabulary :=
                 		}    				
     				</skos:memberList>
     			</skos:OrderedCollection>
-    			<skos:OrderedCollection rdf:about="http://lingv.ro/ontology/usage/domains">
+    			<skos:OrderedCollection rdf:about="http://lingv.ro/ontology/usages/domains">
     				<rdfs:label>Domenii ale indicațiilor de folosire</rdfs:label>
     				<skos:memberList rdf:parseType="Collection">{$domain-concepts}</skos:memberList>
     			</skos:OrderedCollection>
