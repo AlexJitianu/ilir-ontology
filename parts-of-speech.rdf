@@ -7,7 +7,7 @@
 			<skos:Concept rdf:about="http://lingv.ro/ontology/parts-of-speech/#common-noun">
 				<skos:prefLabel>s.</skos:prefLabel>
 				<skos:notation>s.</skos:notation>
-				<skos:narrower rdf:resource="http://lingv.ro/ontology/parts-of-speech/gender"/>
+				<skos:narrowMatch rdf:resource="http://lingv.ro/ontology/parts-of-speech/gender"/>
 			</skos:Concept>
 			<skos:Concept rdf:about="http://lingv.ro/ontology/parts-of-speech/#proper-noun">
 				<skos:prefLabel>s. pr.</skos:prefLabel>
@@ -24,7 +24,7 @@
 			<skos:Concept rdf:about="http://lingv.ro/ontology/parts-of-speech/#adverb">
 				<skos:prefLabel>adv.</skos:prefLabel>
 				<skos:notation>adv.</skos:notation>
-				<skos:narrower rdf:resource="http://lingv.ro/ontology/parts-of-speech/adverb#interrogative"/>
+				<skos:narrowMatch rdf:resource="http://lingv.ro/ontology/parts-of-speech/adverb#interrogative"/>
 			</skos:Concept>
 			<skos:Concept rdf:about="http://lingv.ro/ontology/parts-of-speech/#conjunction">
 				<skos:prefLabel>conj.</skos:prefLabel>
