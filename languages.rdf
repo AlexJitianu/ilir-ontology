@@ -9,11 +9,6 @@
 				<skos:altLabel>limba albaneză; albanezul</skos:altLabel>
 				<skos:notation>sq</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#">
-				<skos:prefLabel/>
-				<skos:altLabel/>
-				<skos:notation/>
-			</skos:Concept>
 			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#rup">
 				<skos:prefLabel>ar.</skos:prefLabel>
 				<skos:altLabel>aromân</skos:altLabel>
