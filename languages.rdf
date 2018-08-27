@@ -86,7 +86,7 @@
 			</skos:Concept>
 			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#grc-x-Byzantin">
 				<skos:prefLabel>gr. bizant.</skos:prefLabel>
-				<skos:altLabel/>
+				<skos:altLabel>???</skos:altLabel>
 				<skos:notation>grc-x-Byzantin</skos:notation>
 			</skos:Concept>
 			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#ruo">
@@ -109,10 +109,10 @@
 				<skos:altLabel>latina vulgară (sau populară)</skos:altLabel>
 				<skos:notation>la-x-popular</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#la?">
 				<skos:prefLabel>lat. neol.</skos:prefLabel>
 				<skos:altLabel>latina neologică (sau savantă)</skos:altLabel>
-				<skos:notation/>
+				<skos:notation>la?</skos:notation>
 			</skos:Concept>
 			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#la-x-medieval">
 				<skos:prefLabel>lat. med.</skos:prefLabel>
@@ -124,10 +124,10 @@
 				<skos:altLabel>lutuaniană</skos:altLabel>
 				<skos:notation>lt</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#maced?">
 				<skos:prefLabel>maced.</skos:prefLabel>
 				<skos:altLabel>limba slavă macedoneană; slavul macedoneanul </skos:altLabel>
-				<skos:notation/>
+				<skos:notation>maced?</skos:notation>
 			</skos:Concept>
 			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#hu">
 				<skos:prefLabel>magh.</skos:prefLabel>
@@ -199,15 +199,15 @@
 				<skos:altLabel>dialectul sicilian</skos:altLabel>
 				<skos:notation>scn</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#sl?">
 				<skos:prefLabel>sl.</skos:prefLabel>
 				<skos:altLabel>limba slavă; slavul?</skos:altLabel>
-				<skos:notation/>
+				<skos:notation>sl?</skos:notation>
 			</skos:Concept>
-			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#">
+			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#slavon?">
 				<skos:prefLabel>slavon.</skos:prefLabel>
 				<skos:altLabel>limba slavonă; slavonul</skos:altLabel>
-				<skos:notation/>
+				<skos:notation>slavon?</skos:notation>
 			</skos:Concept>
 			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#sl">
 				<skos:prefLabel>slov.</skos:prefLabel>
@@ -231,7 +231,7 @@
 			</skos:Concept>
 			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#tr-x-dialect">
 				<skos:prefLabel>tc. dial.</skos:prefLabel>
-				<skos:altLabel/>
+				<skos:altLabel>tc?</skos:altLabel>
 				<skos:notation>tr-x-dialect</skos:notation>
 			</skos:Concept>
 			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#rom">
