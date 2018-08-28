@@ -183,6 +183,9 @@
 				<skos:prefLabel>săs.</skos:prefLabel>
 				<skos:altLabel>săsesc</skos:altLabel>
 				<skos:notation>sxu</skos:notation>
+				<skos:note>https://upload.wikimedia.org/wikipedia/commons/8/81/Rheinland_Regierungsbezirke_1905.png,
+					https://upload.wikimedia.org/wikipedia/commons/4/40/Mitteldeutsche_Mundarten.png
+				</skos:note>
 			</skos:Concept>
 			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#sc">
 				<skos:prefLabel>sard.</skos:prefLabel>
@@ -203,11 +206,14 @@
 				<skos:prefLabel>sl.</skos:prefLabel>
 				<skos:altLabel>limba slavă; slavul?</skos:altLabel>
 				<skos:notation>sl?</skos:notation>
+				<skos:note>este https://en.wikipedia.org/wiki/Proto-Slavic ?</skos:note>
 			</skos:Concept>
 			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#slavon?">
 				<skos:prefLabel>slavon.</skos:prefLabel>
 				<skos:altLabel>limba slavonă; slavonul</skos:altLabel>
 				<skos:notation>slavon?</skos:notation>
+				skos:
+				<skos:note>este https://en.wikipedia.org/wiki/Church_Slavonic_language ?</skos:note>
 			</skos:Concept>
 			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#sl">
 				<skos:prefLabel>slov.</skos:prefLabel>
@@ -238,6 +244,18 @@
 				<skos:prefLabel>ţig.</skos:prefLabel>
 				<skos:altLabel>limba ţigănească; ţigănescul</skos:altLabel>
 				<skos:notation>rom</skos:notation>
+				<skos:note>care cod ar fi:
+					rom – inclusive code
+					Individual codes:
+					rmn – Balkan Romani
+					rml – Baltic Romani
+					rmc –
+					Carpathian Romani
+					rmf – Finnish Kalo
+					rmo – Sinte Romani
+					rmy – Vlax Romani
+					rmw – Welsh Romani
+				</skos:note>
 			</skos:Concept>
 			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#uk">
 				<skos:prefLabel>ucr.</skos:prefLabel>
@@ -248,11 +266,13 @@
 				<skos:prefLabel>vegl.</skos:prefLabel>
 				<skos:altLabel>limba vegliotă; vegliotul</skos:altLabel>
 				<skos:notation>dlm-x-vegliot</skos:notation>
+				<skos:note>https://en.m.wikipedia.org/wiki/Dalmatian_language#Ragusan_dialect</skos:note>
 			</skos:Concept>
 			<skos:Concept rdf:about="http://lingv.ro/ontology/languages/#sla-pro?">
 				<skos:prefLabel>v. sl.</skos:prefLabel>
 				<skos:altLabel>limba veche slavă; vechiul slav</skos:altLabel>
 				<skos:notation>sla-pro?</skos:notation>
+				<skos:note>este https://en.wikipedia.org/wiki/Old_Church_Slavonic ?</skos:note>
 			</skos:Concept>
 		</skos:memberList>
 	</skos:OrderedCollection>
