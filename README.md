@@ -16,6 +16,12 @@ IANA registry of permissible subtags [http://iana.org/assignments/language-subta
 
 Validate tags for languages [https://validator.w3.org/nu/#textarea]
 ```xml
-	<!doctype html><html xmlns="http://www.w3.org/1999/xhtml" lang="chi-hans"><head><title>t</title></head><body>b</body></html>
+	<!doctype html>
+	<html xmlns="http://www.w3.org/1999/xhtml" lang="chi-hans">
+	     <head>
+	          <title>t</title>
+	     </head>
+	     <body>b</body>
+	</html>
 ```
 
