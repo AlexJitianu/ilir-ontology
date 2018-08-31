@@ -14,7 +14,8 @@ Variant subtags [http://w3.org/International/articles/language-tags/]
 
 IANA registry of permissible subtags [http://iana.org/assignments/language-subtag-registry/language-subtag-registry]
 
-Validare taguri pentru limbi [https://validator.w3.org/nu/#textarea]
-
-<!doctype html><html xmlns="http://www.w3.org/1999/xhtml" lang="chi-hans"><head><title>t</title></head><body>b</body></html>
+Validate tags for languages [https://validator.w3.org/nu/#textarea]
+```xml
+	<!doctype html><html xmlns="http://www.w3.org/1999/xhtml" lang="chi-hans"><head><title>t</title></head><body>b</body></html>
+```
 
